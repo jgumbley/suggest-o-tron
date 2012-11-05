@@ -1,5 +1,4 @@
 stems:
-    - Write a n00b 101 webapp which generates stupid hipster suggestions.
     - Write a fanboy blog about <coolthing>.
     - Post a poignient rant about <crapthing>.
     - Link to an article flaming <person>.
@@ -8,7 +7,8 @@ stems:
     - Write a blog asking if <coolthing> is the next <crapthing>.
     - Use <tool> to <goal> and then make <share> about it.
     - Explain in a blog why <person> is trying to destroy <coolthing>.
-    - Make <share> about how <coolthing> user community is a ghetto.
+    - Post <share> about how <coolthing> user community is a ghetto.
+    - Write a n00b 101 webapp which generates stupid hipster suggestions.
 ontology:
     person:
         - Steve Jobs
@@ -70,14 +70,17 @@ ontology:
         - launch a weather balloon which can reach the stratosphere
         - catalogue your collection of bit-pop music
         - design a skeuomorphic user interface
-        - 'stick it to the man'
-        - 'do a startup'
+        - stick it to the man
+        - do a startup
         - get VC funding
         - complete the original Mario Bros in less than 1 hour
         - demonstrate the Turing completeness of <coolthing>
     share:
         - a tweet
-        - a HackerNews post
+        - a HackerNews thread 
+        - a Reddit thread
+        - a Slashdot thread
         - a lengthy blog article
         - a cheeky tumblr note
+        - a comedy podcast
 
