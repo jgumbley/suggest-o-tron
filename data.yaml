@@ -1,0 +1,83 @@
+stems:
+    - Write a n00b 101 webapp which generates stupid hipster suggestions.
+    - Write a fanboy blog about <coolthing>.
+    - Post a poignient rant about <crapthing>.
+    - Link to an article flaming <person>.
+    - Spend the weekend teaching your kids about <coolthing> then make <share> about it.
+    - Reimplement <coolthing> using <tool>.
+    - Write a blog asking if <coolthing> is the next <crapthing>.
+    - Use <tool> to <goal> and then make <share> about it.
+    - Explain in a blog why <person> is trying to destroy <coolthing>.
+    - Make <share> about how <coolthing> user community is a ghetto.
+ontology:
+    person:
+        - Steve Jobs
+        - Julian Assange
+        - Linus Torvalds
+        - George Lucas 
+        - Kim Dotcom
+    coolthing: 
+        - the Apple ][
+        - the MacBook Pro retina display
+        - the Raspberry Pi
+        - the Lego Mindstorms kit
+        - the IBM System 360 mainframe
+        - Node.js
+        - the Commodore Amiga
+        - Ruby on Rails
+        - GitHub
+        - the MacBook Air
+        - the iPad 4
+        - an Apache helicopter
+        - VIM plugins
+        - Trello
+        - Bootstrap
+        - Clojure
+        - Scala
+        - MongoDB
+        - the functional paradigm
+        - DevOps
+        - Linux
+    crapthing:
+        - Apple IOS 6 Maps
+        - Java
+        - C++
+        - Subversion
+        - Maven
+        - enterprise programming
+        - Google
+        - Facebook
+        - Oracle
+        - Microsoft
+        - the object oriented paradigm
+        - enterprise service bus
+        - backbone.js
+    tool:
+        - only wood and playdough
+        - Javascript
+        - an asynchonous lisp dialect using Emacs as a runtime
+        - PyPy
+        - the Coursera online course notes
+        - css media queries
+    goal:
+        - secure your house
+        - implement a simple TODO list
+        - keep you up to date with all your freinds
+        - advance social and economic justice
+        - build a 'hello world' web application
+        - visualise an geometrical shape in 8 dimensional space
+        - create a robot which can clean your apartment
+        - launch a weather balloon which can reach the stratosphere
+        - catalogue your collection of bit-pop music
+        - design a skeuomorphic user interface
+        - 'stick it to the man'
+        - 'do a startup'
+        - get VC funding
+        - complete the original Mario Bros in less than 1 hour
+        - demonstrate the Turing completeness of <coolthing>
+    share:
+        - a tweet
+        - a HackerNews post
+        - a lengthy blog article
+        - a cheeky tumblr note
+
