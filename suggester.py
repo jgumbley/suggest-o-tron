@@ -13,6 +13,7 @@ def load_data():
 
 
 def pickrandom(group):
+    random.seed()
     return group[randrange(len(group)) - 1]
 
 pattern = re.compile(r"<[a-z]*>")
@@ -33,7 +34,7 @@ def parse(stem, ontology):
     return stem
 
 
-def headline():
+def suggestion():
     stems, ontology = load_data()
     return parse(pickrandom(stems), ontology)
 

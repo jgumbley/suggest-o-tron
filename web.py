@@ -1,7 +1,7 @@
 import os
 from flask import render_template
 from flask import Flask
-from headliner import headline
+from suggester import suggestion
 
 app = Flask(__name__)
 
