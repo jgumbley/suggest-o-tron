@@ -4,8 +4,8 @@
     <meta charset="utf-8">
 
     <!-- Metas ...--->
-    <title>Hipster Suggestions - </title>
-    <meta name="description" content="Hipster suggestions.">
+    <title>Suggest-o-tron- make your impression in the hacker subculture!</title>
+    <meta name="description" content="Suggest-o-tron- make your impression in the hacker subculture!">
     <meta name="author" content="jgumbley.com, Jim Gumbley">
 
     <!--[if lt IE 9]>
@@ -15,9 +15,12 @@
     <!-- Le styles -->
     <link href="/static/css/bootstrap.min.css" rel="stylesheet">
 
-    <link href='http://fonts.googleapis.com/css?family=Oxygen+Mono' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Fugaz+One' rel='stylesheet' type='text/css'>
+
     <style>
-    h2 { font-family: ‘Metrophobic’, Arial, serif; font-weight: 400; }
+    h1 { font-family: 'Fugaz One', Cursive, serif; font-weight: 400; text-align: center }
+    h2 { font-family: 'Fugaz One', Cursive, serif; font-weight: 400; color: #333333  }
+    p { font-family: Monospace; color: #444444  }
     </style>
 
     <!-- Le fav and touch icons -->
@@ -26,24 +29,32 @@
 
 <body>
 
-  <div class="container">
-      <div class="content">
-        <div class="page-header">
-          <img src="/static/img/shades.png">
-          <h1>Hipster Suggest-o-tron ... <small>make your impression in the coder subculture.</small></h1>
-        </div>
+<div class="container">
+<div class="content">
+  <div class="row">&nbsp;</div>
+  <div class="row"><h1>{{ suggestion }}</h1></div>
         <div class="row">
           <hr/>
-          <div class="span14">
-              <h2>{{ suggestion }}</h2>
+          <div class="span3">
+            <img align="right" src="/static/img/shades.png">
+            &nbsp;
           </div>
-          <hr/>
+          <div class="span3">
+            <h2>suggest-o-tron ©</h2>
+            <small>make your impression in the coder subculture.</small>
+          </div>
+          <div class="span6">
+            <p>Made by <a href="http://twitter.com/jgumbley/">Jim Gumbley</a> using <a href="http://www.python.com">Python</a> 
+            and <a href="http://flask.pocoo.org/">Flask</a>. Bunged into <a href="https://github.com/jgumbley/suggest-o-tron">Github</a>
+            and hosted on Heroku. 
+            </p>
+            <p>I am not proud of what I did :(
+            </p>
+          </div>
         </div>
       </div>
-
-
-
-  </div> <!-- /container -->
+</div>
+</div> <!-- /container -->
 
     <footer>
     <!--<p>© website content and design 2012</p>-->
