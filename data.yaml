@@ -57,7 +57,7 @@ ontology:
     tool:
         - only wood and playdough
         - Javascript
-        - an asynchonous lisp dialect using Emacs as a runtime
+        - an asynchonous webserver implmented in Emacs Lisp
         - PyPy
         - the Coursera online course notes
         - css @media queries
