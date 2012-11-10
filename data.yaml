@@ -4,6 +4,7 @@ stems:
     - Link to an article flaming <person>.
     - Spend the weekend teaching your kids about <coolthing> then make <share> about it.
     - Reimplement <coolthing> using <tool>.
+    - Post <share> asking if the community has lost sight of the original purpose of <coolthing>.
     - Write a blog asking if <coolthing> is the next <crapthing>.
     - Use <tool> to <goal> and then make <share> about it.
     - Explain in a blog why <person> is trying to destroy <coolthing>.
@@ -16,8 +17,9 @@ ontology:
         - Linus Torvalds
         - George Lucas 
         - Kim Dotcom
+        - Richard Stallman
     coolthing: 
-        - the Apple ][
+        - the Apple II
         - the MacBook Pro retina display
         - the Raspberry Pi
         - the Lego Mindstorms kit
@@ -28,7 +30,6 @@ ontology:
         - GitHub
         - the MacBook Air
         - the iPad 4
-        - an Apache helicopter
         - VIM plugins
         - Trello
         - Bootstrap
@@ -52,17 +53,24 @@ ontology:
         - the object oriented paradigm
         - enterprise service bus
         - backbone.js
+        - the cloud
     tool:
         - only wood and playdough
         - Javascript
         - an asynchonous lisp dialect using Emacs as a runtime
         - PyPy
         - the Coursera online course notes
-        - css media queries
+        - css @media queries
+        - Clojure
+        - C
+        - Git
+        - Xcode
+        - DevOps
+        - Lisp
     goal:
         - secure your house
         - implement a simple TODO list
-        - keep you up to date with all your freinds
+        - keep you up to date with all your friends
         - advance social and economic justice
         - build a 'hello world' web application
         - visualise an geometrical shape in 8 dimensional space
@@ -75,7 +83,7 @@ ontology:
         - get VC funding
         - complete the original Mario Bros in less than 1 hour
         - demonstrate the Turing completeness of <coolthing>
-        - prove out your MVP and then do a pivot.
+        - prove out your MVP and then do a pivot
     share:
         - a tweet
         - a HackerNews thread 
@@ -85,4 +93,6 @@ ontology:
         - a cheeky tumblr note
         - a comedy podcast
         - a sweary rant
+        - a Pecha Kucha 
+        - a zany talk at a conference
 
