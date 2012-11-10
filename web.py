@@ -10,8 +10,7 @@ app.secret_key = 'A0Zr98j/3yX R~XHH!jmN]LWX/,?RT'
 
 @app.route('/')
 def index():
-    message = headline()
-    return render_template('layout.html', suggestion=message)
+    return render_template('layout.html', suggestion=suggestion())
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
