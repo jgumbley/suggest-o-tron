@@ -4,12 +4,12 @@ stems:
     - Link to an article flaming <person>.
     - Spend the weekend teaching your kids about <coolthing> then make <share> about it.
     - Reimplement <coolthing> using <tool>.
-    - Post <share> asking if the community has lost sight of the original purpose of <coolthing>.
+    - Do <share> asking if the community has lost sight of the original purpose of <coolthing>.
     - Write a blog asking if <coolthing> is the next <crapthing>.
     - Use <tool> to <goal> and then make <share> about it.
     - Explain in a blog why <person> is trying to destroy <coolthing>.
-    - Post <share> about why <coolthing> matters.
-    - Post <share> about how <coolthing> user community is a ghetto.
+    - Make <share> about why <coolthing> matters.
+    - Do <share> about how <coolthing> user community is a ghetto.
     - Write a n00b 101 webapp which generates stupid hipster suggestions.
 ontology:
     person:
