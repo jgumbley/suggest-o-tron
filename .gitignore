@@ -1,5 +1,6 @@
 .idea/*
 *~
+*.swo
 *.swp
 *.iml
 *.pyc
