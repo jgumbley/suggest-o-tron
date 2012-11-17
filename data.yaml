@@ -34,7 +34,7 @@ ontology:
         - GitHub
         - the MacBook Air
         - the iPad 4
-        - VIM plugins
+        - VIM
         - Trello
         - Bootstrap
         - Clojure
@@ -61,7 +61,7 @@ ontology:
     tool:
         - only wood and playdough
         - Javascript
-        - an asynchonous webserver implmented in Emacs Lisp
+        - an asynchonous webserver implemented in Emacs Lisp
         - PyPy
         - the Coursera online course notes
         - css @media queries
