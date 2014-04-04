@@ -29,6 +29,8 @@ ontology:
         - Zed Shaw
         - John Gruber
         - Steve Balmer
+        - Marissa Mayer
+        - Cloud Borat
     coolthing: 
         - the Apple II
         - the MacBook Pro retina display
@@ -80,6 +82,7 @@ ontology:
         - DevOps
         - Lisp
         - a static site generator
+        - UX
     goal:
         - secure your house
         - implement a simple TODO list
