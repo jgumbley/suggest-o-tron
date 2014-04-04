@@ -1,6 +1,6 @@
 stems:
     - Write a fanboy blog about <coolthing>.
-    - Post a poignient rant about <crapthing>.
+    - Post a poignant rant about <crapthing>.
     - Link to an article flaming <person>.
     - Spend the weekend teaching your kids about <coolthing> then make <share> about it.
     - Reimplement <coolthing> using <tool>.
@@ -11,6 +11,10 @@ stems:
     - Make <share> about why <coolthing> matters.
     - Do <share> about how <coolthing> user community is a ghetto.
     - Write a n00b 101 webapp which generates stupid hipster suggestions.
+    - Write <share> about why <coolthing> is not the answer
+    - Create <share> titled '<crapthing> The Good Parts'
+    - Buy <coolthing>.sexy domain
+    - Create a barebones demonstration 'this is motherfucking <coolthing>'
 ontology:
     person:
         - Steve Jobs
@@ -22,6 +26,9 @@ ontology:
         - Bill Gates
         - Larry Ellison
         - Tim Berners Lee
+        - Zed Shaw
+        - John Gruber
+        - Steve Balmer
     coolthing: 
         - the Apple II
         - the MacBook Pro retina display
@@ -43,6 +50,7 @@ ontology:
         - the functional paradigm
         - DevOps
         - Linux
+        - React
     crapthing:
         - Apple IOS 6 Maps
         - Java
@@ -71,6 +79,7 @@ ontology:
         - Xcode
         - DevOps
         - Lisp
+        - a static site generator
     goal:
         - secure your house
         - implement a simple TODO list
@@ -88,6 +97,7 @@ ontology:
         - complete the original Mario Bros in less than 1 hour
         - demonstrate the Turing completeness of <coolthing>
         - prove out your MVP and then do a pivot
+        - responsive design
     share:
         - a tweet
         - a HackerNews thread 
@@ -99,4 +109,5 @@ ontology:
         - a sweary rant
         - a Pecha Kucha 
         - a zany talk at a conference
+        - a Facebook status update
 

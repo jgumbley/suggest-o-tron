@@ -3,6 +3,7 @@ random.seed()
 from random import randrange
 import re
 import yaml
+from datetime import datetime
 
 
 def load_data():
@@ -13,7 +14,7 @@ def load_data():
 
 
 def pickrandom(group):
-    random.seed()
+    random.seed(datetime.now().microsecond)
     return group[randrange(len(group)) - 1]
 
 pattern = re.compile(r"<[a-z]*>")
