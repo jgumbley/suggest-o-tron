@@ -11,10 +11,10 @@ stems:
     - Make <share> about why <coolthing> matters.
     - Do <share> about how <coolthing> user community is a ghetto.
     - Write a n00b 101 webapp which generates stupid hipster suggestions.
-    - Write <share> about why <coolthing> is not the answer
-    - Create <share> titled '<crapthing> The Good Parts'
-    - Buy <coolthing>.sexy domain
-    - Create a barebones demonstration 'this is motherfucking <coolthing>'
+    - Write <share> about why <coolthing> is not the answer.
+    - Create <share> titled '<crapthing> The Good Parts'.
+    - Buy <coolthing>.sexy domain.
+    - Create a barebones demonstration 'this is motherfucking <coolthing>'.
 ontology:
     person:
         - Steve Jobs
