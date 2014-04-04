@@ -3,5 +3,5 @@ Flask-OAuth
 oauth
 logbook
 pyyaml
-distribute==0.6.24
-gunicorn==0.13.4
+distribute
+gunicorn
